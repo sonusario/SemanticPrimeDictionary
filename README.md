@@ -3,6 +3,8 @@ The Semantic Prime Dictionary is a non-circular dictionary with all non-primitiv
 
 A python program will be provided in the future to allow querying the definitions of words and their hierarchical state relative to the semantic primes.
 
+The table below list the primes.
+
 Category | Primes
 --- | ---
 Substantives | I, YOU, SOMEONE, PEOPLE, SOMETHING/THING, BODY
