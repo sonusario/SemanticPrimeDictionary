@@ -8,7 +8,7 @@ The table below list the primes.
 Category | Primes
 --- | ---
 Substantives | I, YOU, SOMEONE, PEOPLE, SOMETHING/THING, BODY
-Relational | Substantives	KIND, PART
+Relational | KIND, PART
 Determiners	| THIS, THE SAME, OTHER\~ELSE\~ANOTHER
 Quantifiers	| ONE, TWO, SOME, ALL, MUCH/MANY, LITTLE/FEW
 Evaluators	| GOOD, BAD
