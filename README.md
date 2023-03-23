@@ -1,9 +1,9 @@
 # SemanticPrimeDictionary
 The Semantic Prime Dictionary is a non-circular dictionary with all non-primitive words defined by primitive words and/or other words that were defined with primitives.
 
-A python program will be provided in the future to allow querying the definitions of words and their hierarchical state relative to the semantic primes.
+A bare bones Rust program is included that allows the modifying of words and their hierarchical state relative to the semantic primes. Suggestions for changes are welcome.
 
-The table below list the primes.
+The table below lists the primes.
 
 Category | Primes
 --- | ---
